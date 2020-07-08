@@ -1,0 +1,6 @@
+Softwares utilizados:
+
+postgresql
+postbird
+visual studio code
+node.js
